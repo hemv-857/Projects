@@ -86,7 +86,7 @@ This is relevant to domains like trading, experimentation, and data acquisition 
 
 Python:
 - Python 3.8+
-- numpy
+- pandas
 - matplotlib
 
 R (for the scoring rules analysis):
