@@ -145,6 +145,10 @@ It does not aim to:
 
 ---
 
+## Contributing
+
+See [CONTRIBUTING.md](CONTRIBUTING.md).
+
 ## License
 
 No license is currently specified.  
