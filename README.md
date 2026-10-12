@@ -1,5 +1,7 @@
 # Projects
 
+<a href="https://github.com/hemv-857/Projects/actions/workflows/ci.yml"><img src="https://github.com/hemv-857/Projects/actions/workflows/ci.yml/badge.svg" alt="Projects CI"></a> <a href="https://github.com/hemv-857/Projects/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="License: MIT"></a> <img src="https://img.shields.io/badge/Python-3776AB.svg" alt="Python">
+
 This repository contains small quantitative experiments focused on decision theory, probability, and incentives.  
 
 The main work is inside the `Quant Projects` folder.
